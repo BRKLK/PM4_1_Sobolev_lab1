@@ -1,0 +1,3 @@
+C:/VScodeProjects/BFU/Cplus_labs/2/build/CMakeFiles/2.dir
+C:/VScodeProjects/BFU/Cplus_labs/2/build/CMakeFiles/edit_cache.dir
+C:/VScodeProjects/BFU/Cplus_labs/2/build/CMakeFiles/rebuild_cache.dir

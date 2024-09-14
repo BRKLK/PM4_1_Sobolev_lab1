@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/VScodeProjects/BFU/Cplus_labs/2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++17 -o CMakeFiles\\2.dir\\main.cpp.obj -c C:\\VScodeProjects\\BFU\\Cplus_labs\\2\\main.cpp",
+  "file": "C:/VScodeProjects/BFU/Cplus_labs/2/main.cpp",
+  "output": "CMakeFiles/2.dir/main.cpp.obj"
+}
+]
